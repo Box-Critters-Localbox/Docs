@@ -2,6 +2,11 @@
 
 * [Welcome](README.md)
 
+## Basics
+
+* [Client](basics/client.md)
+* [Base Files](basics/base-files.md)
+
 ## Classes
 
 * [Player](classes/player.md)

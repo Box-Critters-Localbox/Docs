@@ -11,6 +11,7 @@
 
 * [Player](classes/player.md)
 * [Player Crumb](classes/player-crumb.md)
+* [Room](classes/room.md)
 * [Trigger](classes/trigger.md)
 
 ## Enums

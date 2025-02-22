@@ -1,5 +1,6 @@
 ---
 icon: code
+description: The main game script for Box Critters.
 ---
 
 # Client

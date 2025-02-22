@@ -1,9 +1,6 @@
 ---
 icon: user
-description: >-
-  The Player type represents the local player. On login, this is sent to the
-  client so it knows everything about the local player, and how to render their
-  critter. When this object is sent to other clie
+description: A player object represents the local player.
 ---
 
 # Player

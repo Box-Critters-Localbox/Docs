@@ -1,5 +1,8 @@
 ---
 icon: info
+description: >-
+  Files which contain information on stuff like all of the critters, rooms, and
+  mascots in Box Critters.
 ---
 
 # Base Files

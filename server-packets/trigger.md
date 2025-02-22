@@ -1,3 +1,7 @@
+---
+description: Documentation on the trigger packet sent by the client to the server.
+---
+
 # trigger
 
 ### Description

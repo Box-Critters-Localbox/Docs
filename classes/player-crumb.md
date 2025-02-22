@@ -1,5 +1,6 @@
 ---
 icon: user-group
+description: A player crumb is a condensed version of the regular player object.
 ---
 
 # Player Crumb

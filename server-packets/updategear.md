@@ -1,3 +1,7 @@
+---
+description: Documentation on the updateGear packet sent by the client to the server.
+---
+
 # updateGear
 
 ### Description

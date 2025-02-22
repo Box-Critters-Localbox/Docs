@@ -1,3 +1,7 @@
+---
+description: Documentation on the ignore packet sent by the client to the server.
+---
+
 # ignore
 
 ### Description

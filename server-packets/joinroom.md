@@ -1,3 +1,7 @@
+---
+description: Documentation on the joinRoom packet sent by the client to the server.
+---
+
 # joinRoom
 
 ### Description

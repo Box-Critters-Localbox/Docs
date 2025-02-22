@@ -1,5 +1,8 @@
 ---
 icon: door-closed
+description: >-
+  A trigger is used to represent any area of a room that joins another room,
+  grants an item, opens a mini-game, grants an egg, etc.
 ---
 
 # Trigger

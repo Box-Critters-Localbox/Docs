@@ -1,3 +1,7 @@
+---
+description: Documentation on the buyItem packet sent by the client to the server.
+---
+
 # buyItem
 
 ### Description

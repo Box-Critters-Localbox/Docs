@@ -1,3 +1,7 @@
+---
+description: Documentation on the getShop packet sent by the client to the server.
+---
+
 # getShop
 
 ### Description

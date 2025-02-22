@@ -1,3 +1,7 @@
+---
+description: Documentation on the emote packet sent by the client to the server.
+---
+
 # emote
 
 ### Description

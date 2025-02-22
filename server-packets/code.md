@@ -1,3 +1,7 @@
+---
+description: Documentation on the code packet sent by the client to the server.
+---
+
 # code
 
 ### Description

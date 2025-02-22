@@ -1,3 +1,7 @@
+---
+description: Documentation on the attack packet sent by the client to the server.
+---
+
 # attack
 
 ### Description

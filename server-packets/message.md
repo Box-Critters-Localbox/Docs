@@ -1,3 +1,7 @@
+---
+description: Documentation on the message packet sent by the client to the server.
+---
+
 # message
 
 ### Description

@@ -1,3 +1,7 @@
+---
+description: Documentation on the login packet sent by the client to the server.
+---
+
 # login
 
 ### Description

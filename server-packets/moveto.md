@@ -1,3 +1,7 @@
+---
+description: Documentation on the moveTo packet sent by the client to the server.
+---
+
 # moveTo
 
 ### Description

@@ -4,6 +4,8 @@ icon: info
 
 # Base Files
 
+### Description
+
 On page load, the game would load several "base" `JSON` files. These files would contain information on stuff like all of the critters, rooms, and mascots in the game. If you are into Club Penguin private server development, these are similar to the `JSONP` files often loaded by Flash private servers.
 
 ### Manifest

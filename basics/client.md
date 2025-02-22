@@ -4,6 +4,8 @@ icon: code
 
 # Client
 
+### Description
+
 Box Critter's client was written with Typescript & CreateJS [(documentation)](https://createjs.com/). In the beta, RocketSnail has confirmed that he has moved to PixiJS [(documentation)](https://pixijs.com/) for client development.
 
 ### Versions

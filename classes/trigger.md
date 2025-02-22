@@ -4,9 +4,9 @@ icon: door-closed
 
 # Trigger
 
-
-
 <figure><img src="../.gitbook/assets/tavern-triggers.png" alt=""><figcaption><p>The triggers in the Tavern room, shown using the <code>/treasure</code> command</p></figcaption></figure>
+
+### Description
 
 A `Trigger` is a class used to represent any area of a room that joins another room, grants an item, opens a mini-game, grants an `egg`, etc. Triggers are determined by the `treasure.png` of a room, previously called `map.png`, `map_server.png`, and or `map_client.png`. **All** triggers will have the `hex` property so the game knows what the HEX color is of the collider in the invisible image. Whenever the player moves, the game checks the HEX color of where the critter is standing to see if a trigger should be ran.
 

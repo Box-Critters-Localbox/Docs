@@ -4,6 +4,8 @@ icon: user
 
 # Player
 
+### Description
+
 The `Player` type represents the local player. On login, this is sent to the client so it knows everything about the local player, and how to render their critter. When this object is sent to other clients, it is first compressed into a `PlayerCrumb`, which is heavily condensed version of the standard `Player` type.
 
 | Key       | Type            | Description                                                                                                                                       |

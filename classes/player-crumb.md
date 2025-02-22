@@ -4,6 +4,8 @@ icon: user-group
 
 # Player Crumb
 
+### Description
+
 A `Player Crumb` is a class that defines the condensed version of the [`Player`](player.md) type, for use of other clients so they know the bare minimum amount of information to render that player.
 
 | Key | Type                                  | Description                                              |

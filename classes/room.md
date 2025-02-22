@@ -4,6 +4,8 @@ icon: house
 
 # Room
 
+### Description
+
 A `Room` is a class which is pretty self-explanatory. Each room is layered in several different assets, including a background (can be an image or a video), foreground, props sprite-sheet, layout `JSON`, music, etc.
 
 The following table shows the structure of room data. Each room's data was specified in the [rooms base file](../basics/base-files.md) which is fetched on page load.

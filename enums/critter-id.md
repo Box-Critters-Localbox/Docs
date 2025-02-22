@@ -4,6 +4,8 @@ icon: user-astronaut
 
 # Critter ID
 
+### Description
+
 Critters are identified via a short ID string as listed below:
 
 ### Playable Critters

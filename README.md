@@ -24,4 +24,4 @@ Documentation surrounding the internals of Box Critters, a defunct virtual world
 
 This documentation was created after the game's public alpha closing, so the latest client version that was archived was **v178**. The 2 missing versions that released the day after v178 shouldn't invalidate anything majorly.
 
-> Note: All documentation is based off the client version Localbox, my Typescript Box Critters server emulator, uses which is client 161. Down the road, I'd like to switch to using the latest archived version, which is client 178.
+> Note: All documentation is based off the client version [Localbox](https://github.com/Box-Critters-Localbox/Localbox), my Typescript Box Critters server emulator, uses which is client 161. Down the road, I'd like to switch to using the latest archived version, which is client 178.

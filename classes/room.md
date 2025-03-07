@@ -15,7 +15,7 @@ The following table shows the structure of room data. Each room's data was speci
 
 | Key         | Type                                     | Description                                                                                                                                  |
 | ----------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| roomId      | `string`                                 | The internal name of the room, usually just a lowercase no-space version of the display name. (eg. `tavern`)                                 |
+| roomId      | `string`                                 | The internal name of the room, usually just a lowercase no-space version of the display name. (eg. `tavern`).                                |
 | name        | `string`                                 | The display name of the room, pretty self-explanatory.                                                                                       |
 | width       | `number`                                 | The width of the room.                                                                                                                       |
 | height      | `number`                                 | The height of the room.                                                                                                                      |

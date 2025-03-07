@@ -32,3 +32,23 @@
 * [trigger](server-packets/trigger.md)
 * [ignore](server-packets/ignore.md)
 * [attack](server-packets/attack.md)
+
+## Packets (Server -> Client) <a href="#client-packets" id="client-packets"></a>
+
+* [login](client-packets/login.md)
+* [pop](client-packets/pop.md)
+* [alert](client-packets/alert.md)
+* [beep](client-packets/beep.md)
+* [updateGear](client-packets/updategear.md)
+* [updateCoins](client-packets/updatecoins.md)
+* [addItem](client-packets/additem.md)
+* [addEgg](client-packets/addegg.md)
+* [A (player added)](client-packets/a-player-added.md)
+* [R (player left)](client-packets/r-player-left.md)
+* [X (player moved)](client-packets/x-player-moved.md)
+* [M (message sent)](client-packets/m-message-sent.md)
+* [E (emote sent)](client-packets/e-emote-sent.md)
+
+***
+
+* [G (gear update)](g-gear-update.md)
